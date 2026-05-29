@@ -1,0 +1,9 @@
+.alma-snapshots
+build/
+compile_commands.json
+CLAUDE.md
+AGENT.md
+.DS_store
+.cache
+classing.cc
+.omo/
