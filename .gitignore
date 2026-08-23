@@ -7,3 +7,6 @@ AGENT.md
 .cache
 classing.cc
 .omo/
+.idea/
+AGENTS.md
+STATUS.md
