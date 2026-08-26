@@ -10,3 +10,7 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 add_executable(type_homework
     homework/02-Basics.cc
 )
+
+add_executable(container_homework
+    homework/03-container.cc
+)
