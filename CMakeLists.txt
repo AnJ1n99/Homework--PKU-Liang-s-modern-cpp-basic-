@@ -14,3 +14,7 @@ add_executable(type_homework
 add_executable(container_homework
     homework/03-container.cc
 )
+
+add_executable(ranges_homework
+    homework/04-ranges.cc
+)
